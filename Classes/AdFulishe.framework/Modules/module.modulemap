@@ -1,0 +1,6 @@
+framework module AdFulishe {
+  umbrella header "AdFulishe.h"
+
+  export *
+  module * { export * }
+}
