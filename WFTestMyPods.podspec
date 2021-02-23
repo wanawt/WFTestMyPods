@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "WFTestMyPods"
-  spec.version      = "0.0.7"
+  spec.version      = "0.0.8"
   spec.summary      = "测试私有pod库创建"
 
   # This description is used to generate tags and improve search results.
@@ -109,7 +109,7 @@ Pod::Spec.new do |spec|
   # spec.resources = "Resources/*.png"
 
   # spec.preserve_paths = "FilesToSave", "MoreFilesToSave"
-  spec.ios.vendored_frameworks = 'Frameworks/AdFulishe.framework'
+  spec.vendored_frameworks = 'Frameworks/AdFulishe.framework'
 
   # ――― Project Linking ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   #
