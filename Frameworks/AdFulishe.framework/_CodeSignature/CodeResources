@@ -896,28 +896,6 @@
 		<data>
 		SLOlYgvMJSNvZnvsFygjtOgrWE0=
 		</data>
-		<key>Sigmob.bundle/en.lproj/SigmobLanguage.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			Ymn7y6etzu0lfICb6sJYR8cpwy0=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Sigmob.bundle/mraid.js</key>
-		<data>
-		bo8U6WzXHj5eJ53WX2wxCZln/58=
-		</data>
-		<key>Sigmob.bundle/zh-Hans.lproj/SigmobLanguage.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			BWhJ4WbXzINXUZpYr1E6T7janNM=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
 	</dict>
 	<key>files2</key>
 	<dict>
@@ -3174,43 +3152,6 @@
 			<data>
 			7h3tMl05IYcXHIN4HSoMNLg8jr5i1IjVIsI2nBLlJjQ=
 			</data>
-		</dict>
-		<key>Sigmob.bundle/en.lproj/SigmobLanguage.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			Ymn7y6etzu0lfICb6sJYR8cpwy0=
-			</data>
-			<key>hash2</key>
-			<data>
-			nys0Htc5JCA51dxgxPT/h4GWGLpmOlf3I8elw8lMosk=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Sigmob.bundle/mraid.js</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			bo8U6WzXHj5eJ53WX2wxCZln/58=
-			</data>
-			<key>hash2</key>
-			<data>
-			8I7OBoOM7o4sTVECDgy5+ojN/297ZMUJKPy7yScXZfw=
-			</data>
-		</dict>
-		<key>Sigmob.bundle/zh-Hans.lproj/SigmobLanguage.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			BWhJ4WbXzINXUZpYr1E6T7janNM=
-			</data>
-			<key>hash2</key>
-			<data>
-			HZOLTpMZrd6zET7/MSkHENJYQvovQHnJieNZZLfmQm4=
-			</data>
-			<key>optional</key>
-			<true/>
 		</dict>
 	</dict>
 	<key>rules</key>
