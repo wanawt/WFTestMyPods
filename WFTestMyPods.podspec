@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "WFTestMyPods"
-  spec.version      = "0.2.3"
+  spec.version      = "0.2.4"
   spec.summary      = "测试私有pod库创建"
 
   # This description is used to generate tags and improve search results.
@@ -110,7 +110,7 @@ Pod::Spec.new do |spec|
 
   # spec.preserve_paths = "FilesToSave", "MoreFilesToSave"
   spec.vendored_frameworks = 'Frameworks/AdFulishe.framework'
-
+  spec.resource = 'Resources/FulisheAdBundle.bundle'
   # ――― Project Linking ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   #
   #  Link your library with frameworks, or libraries. Libraries do not include
