@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "WFTestMyPods"
-  spec.version      = "0.1.0"
+  spec.version      = "0.2.2"
   spec.summary      = "测试私有pod库创建"
 
   # This description is used to generate tags and improve search results.
@@ -91,7 +91,7 @@ Pod::Spec.new do |spec|
   #  Not including the public_header_files will make all headers public.
   #
 
-  spec.source_files  = "Classes", "Classes/**/*.{h}"
+  #spec.source_files  = "Classes", "Classes/**/*.{h}"
   #spec.exclude_files = "Classes/Exclude"
 
   # spec.public_header_files = "Classes/**/*.h"
